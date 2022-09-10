@@ -10,8 +10,6 @@ while num != 0:
         print(f"Multiplo de 2 y 3")
         print("")
         mult23 = mult23+1
-        mult2 = mult2+1
-        mult3 = mult3+1
     elif num % 2 == 0:
         print(f"Multiplo de 2")
         print("")
